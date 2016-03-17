@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/312011/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.8.2/jackson-core-asl-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/312011/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.8.2/jackson-mapper-asl-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/312011/Desktop/jars/framework_api-1.1.14.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/312011/Desktop/jars/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/312011/Desktop/jars/jersey-client-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/312011/Desktop/jars/jersey-core-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/312011/Desktop/jars/jersey-json-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/312011/Desktop/jars/partner-auth-client-core-0.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/312011/Desktop/jars/partner-auth-client-jaxrs2-0.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/312011/Desktop/jars/partner-auth-client-jersey1-0.0.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
