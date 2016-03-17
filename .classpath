@@ -13,4 +13,5 @@
 	<classpathentry kind="lib" path="C:/Users/312011/Desktop/jars/partner-auth-client-jaxrs2-0.0.7.jar"/>
 	<classpathentry kind="lib" path="C:/Users/312011/Desktop/jars/partner-auth-client-jersey1-0.0.7.jar"/>
 	<classpathentry kind="output" path="bin"/>
+	
 </classpath>
