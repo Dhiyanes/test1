@@ -8,16 +8,6 @@ import java.util.Date;
 public class SSL {
 	
 	
-//	public static void main(String[] args) {
-//		
-//		System.setProperty("javax.net.ssl.trustStore", "D:/Dhiyanes/whp-jboss-web-5/server/default/conf/truststore.jks");
-//		System.setProperty("javax.net.ssl.trustStorePassword", "changeit");
-//		
-//		System.out.println(System.getProperty("javax.net.ssl.trustStore"));
-//		
-//	}
-	
-	
 	public static void main(String[] args) {
 		Date date = new Date(115, 10, 19, 22, 02);		
 		System.out.println(isInConfiguredhrs(date));
@@ -45,12 +35,8 @@ public class SSL {
 		return false;
 	}
 	
-//	public static void main(String[] args) {
-//		
-//		
-//		String sample = "Online.ORG";
-//		
-//		System.out.println(sample.endsWith("ORG"));
-//	}
+	public void dummymethod(){
+	
+	}
 
 }
